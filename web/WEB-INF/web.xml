@@ -13,4 +13,8 @@
         <servlet-name>Hello</servlet-name>
         <url-pattern>/</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>test</servlet-name>
+        <jsp-file>/teach.jsp</jsp-file>
+    </servlet>
 </web-app>
